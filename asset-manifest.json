@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/helloworld-hackbeanpot2023/static/css/main.7da82ef2.css",
-    "main.js": "/helloworld-hackbeanpot2023/static/js/main.2a666cfd.js",
+    "main.js": "/helloworld-hackbeanpot2023/static/js/main.fa533457.js",
     "static/media/moai1.png": "/helloworld-hackbeanpot2023/static/media/moai1.75a5bad00fdb0c133d73.png",
     "static/media/jimmy2.png": "/helloworld-hackbeanpot2023/static/media/jimmy2.8fb74b2705ea5790771c.png",
     "static/media/studying1.jpg": "/helloworld-hackbeanpot2023/static/media/studying1.c12e02883227401d6a95.jpg",
@@ -13,10 +13,10 @@
     "static/media/programmer.jfif": "/helloworld-hackbeanpot2023/static/media/programmer.eb129f7dc6e589002b46.jfif",
     "index.html": "/helloworld-hackbeanpot2023/index.html",
     "main.7da82ef2.css.map": "/helloworld-hackbeanpot2023/static/css/main.7da82ef2.css.map",
-    "main.2a666cfd.js.map": "/helloworld-hackbeanpot2023/static/js/main.2a666cfd.js.map"
+    "main.fa533457.js.map": "/helloworld-hackbeanpot2023/static/js/main.fa533457.js.map"
   },
   "entrypoints": [
     "static/css/main.7da82ef2.css",
-    "static/js/main.2a666cfd.js"
+    "static/js/main.fa533457.js"
   ]
 }
